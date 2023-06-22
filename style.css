@@ -1,0 +1,137 @@
+
+body{
+    min-height: 100vh;
+}
+/* .notice-analysis-label {
+    width: 420px;
+    height: 75px;
+    background-color: #fefefe;
+    border-left: 5px solid #0d36560f;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 6.02291px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+} */
+
+
+.img-thumbnail {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.card-event{
+	box-shadow: 0px 0px 40px rgba(111, 99, 161, 0.347);
+}
+
+.card-img{
+	margin-top: 22px;
+    width: 370px;
+    height: 256px;
+    margin-left: 22px;
+    transition: transform 2s;
+	border-radius: 10px;
+}
+
+.card-img:hover{
+    transform: scale(0.90);
+}
+
+.event-body{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+    border-radius: 15px;
+}
+
+.faculties-card{
+    border: none;
+}
+.footer{
+    background: rgb(98, 88, 88);
+    color: azure;
+}
+
+.map-container-4{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-4 iframe{
+    left:0;
+    top:0;
+    height:75%;
+    width:100%;
+    position:absolute;
+  }
+  .error {
+    color: red;
+  }
+  .btn_submit_test{
+    background-color: #0d1128;
+    margin-top: 10px;
+  }
+
+  /* .progress_list {
+    display: flex;
+    justify-content: center;
+  }
+
+  .progress_list ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+  }
+
+  .progress_list li {
+    margin-right: 50px;
+  }
+
+  .progress_list ul li div {
+    padding: 5px;
+    border-radius: 50%;
+  }
+
+  .progress_list ul li p {
+    width: 50px;
+    height: 50px;
+    background: #aaaaaa;
+    color: #fefefe;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+  }
+
+  .progress_list ul li.active p {
+    background: #0a58ca;
+  }
+
+  .form_wrap h5 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  } */
+
+  /* .form_wrap .form_3,
+  .form_wrap .form_2 {
+    display: none;
+  }
+
+  .btns_wrap .cmn_btn {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .btns_wrap .cmn_btn.form_1_btn {
+    justify-content: flex-end;
+  }
+
+  .btns_wrap .cmn_btn.form_2_btn,
+  .cmn_btn.form_3_btn {
+    display: none;
+  } */
+
